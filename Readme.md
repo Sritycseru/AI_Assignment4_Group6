@@ -1,0 +1,1 @@
+This repository contains the data, code and report for a binary classifier project that classifies thumbs-up and peace signs using both a Fully Connected Neural Network (FCNN) and a Convolutional Neural Network (CNN). The project involves collecting a dataset using mobile-phone cameras
